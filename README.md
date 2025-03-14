@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+<!--
 - 💁‍♂️: Phan Thành Hưng, 2010
 - 🔮: Toán học, Lập trình thi đấu
 
 ### 🏆:
 - Giải Nhất Tin học trẻ miền Nam (2024)
 - Giải Khuyến khích Tin học trẻ Toàn quốc (2024)
+-->
 
 <!--
 **hungg261/hungg261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
