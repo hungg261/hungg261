@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Click [here](https://github.com/hungg261?tab=repositories) to view my projects.**
+
+### Additional links
+* https://github.com/hungg261
+* https://github.com/hungg261?tab=repositories
+
 ### Statistics
 <details>
   <summary>See statistics</summary>
