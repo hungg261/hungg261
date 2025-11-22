@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-<a href="https://u8views.com/github/hungg261"><img src="https://u8views.com/api/v1/github/profiles/107567770/views/day-week-month-total-count.svg"></a>
-</p>
-
 <!--
 - 💁‍♂️: Phan Thành Hưng, 2010
 - 🔮: Toán học, Lập trình thi đấu
@@ -43,6 +39,7 @@ Here are some ideas to get you started:
   <br>
   
   <p align="center">
+    <a href="https://u8views.com/github/hungg261"><img src="https://u8views.com/api/v1/github/profiles/107567770/views/day-week-month-total-count.svg"></a>
     <a href="https://github.com/hungg261">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hungg261&theme=github_dark">
     </a>
