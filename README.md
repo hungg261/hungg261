@@ -55,7 +55,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/hungg261">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hungg261&theme=github_dark&utcOffset=8">
     </a><br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hungg261&theme=github-dark&border_radius=5&card_width=680" alt="GitHub Streak"></a><br><br>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hungg261&theme=github-dark&card_width=680" alt="GitHub Streak" /></a>
+    <br><br>
   </p>
   
 </details>
